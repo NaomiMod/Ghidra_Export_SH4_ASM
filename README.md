@@ -2,4 +2,4 @@
 Script to export Ghidra selection to ASM, compatible with sh4_asm.exe and VSCODE's sh4extension plugin.
 
 # Credits
-FULL CREDITS to LHS_AZEVEDO for SH4-exporter.py!
+Based on initial SH4 exporter by @lhsazevedo

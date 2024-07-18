@@ -2,7 +2,7 @@
 Ghidra 2 sh4_asm.exe script
 By VincentNL 05/06/2024
 
-FULL CREDITS to LHS_AZEVEDO for SH4-exporter.py
+Based on initial SH4 exporter by Lucas Azevedo (lhsazevedo.dev)
 '''
 
 if not currentSelection:
